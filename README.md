@@ -3,4 +3,4 @@ starup
 
 let's start my journey.
 I'm ready.
-go.
+first time for me to write a code.
